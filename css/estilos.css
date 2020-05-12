@@ -1,0 +1,32 @@
+body{
+    background-image: url('https://image.freepik.com/vetores-gratis/resumo-de-fundo-com-um-desenho-geometrico_1048-1511.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh
+  }
+  .menu{
+    background-color: white;
+  }
+  a{
+    color: green;
+    text-decoration: none;
+  }
+  a:hover{
+    text-decoration: underline;
+    }
+  .menu ul{
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  .menu li{
+    list-style: none;
+  }
+  .site-subtittle,
+  .site-tittle{
+    color: whitesmoke;
+    text-align: center;
+  }
+  .site-subtittle{
+    font-style: italic;
+  }
